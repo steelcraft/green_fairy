@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Ensuring plant viability
+level: 1.0
+links: []
+normative: true
+ref: ''
+reviewed: O-zRy9WDCpdxBtleTED5xzqqub1cYSbtapAFZFS5FXs=
+text: |
+  The system must maintain plant health in the absence of the user, ensuring timely watering.
