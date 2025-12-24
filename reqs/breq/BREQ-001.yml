@@ -4,8 +4,7 @@ header: |
   Ensuring plant viability
 level: 1.0
 links: []
-normative: true
+normative: false
 ref: ''
 reviewed: O-zRy9WDCpdxBtleTED5xzqqub1cYSbtapAFZFS5FXs=
-text: |
-  The system must maintain plant health in the absence of the user, ensuring timely watering.
+text: 'Business requirements for the Green Fairy system.'

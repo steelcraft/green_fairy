@@ -2,10 +2,10 @@ active: true
 derived: false
 header: |
   Elimination of watering errors
-level: 2
+level: 3
 links: []
 normative: true
 ref: ''
 reviewed: sTjLAtNTXIEXnKauqpSNTr57rpfuaSMcdbUbvLmrKok=
 text: |
-  The system should prevent overflowing and overdrying of the soil.
+  The system should automate the process of caring for plants, minimizing user involvement.

@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: 'Ease of use'
+level: 6
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The system should be as easy to install, configure, and use as possible.'

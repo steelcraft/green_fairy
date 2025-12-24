@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: 'Integration with a smart home'
+level: 11
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'Optionally, the system can integrate with smart home platforms.'

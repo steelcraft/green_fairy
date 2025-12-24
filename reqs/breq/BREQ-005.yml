@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: 'Event Notifications'
+level: 5
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The system should notify the user about running out of water, failures, and other important events.'
