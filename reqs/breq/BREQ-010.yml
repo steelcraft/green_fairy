@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: 'Energy efficiency'
+level: 10
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The system must have low power consumption.'

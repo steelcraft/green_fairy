@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Saving user time
+level: 2
+links: []
+normative: true
+ref: ''
+reviewed: WB-aH3BvC8VEsOV7XqFoAyGLGhuY6VvXmD9FtlYMM2k=
+text: |
+  The system must maintain plant health in the absence of the user, ensuring timely watering.

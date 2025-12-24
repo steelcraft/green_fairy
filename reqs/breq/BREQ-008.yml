@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: 'Scalability'
+level: 8
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The system should support the addition of new irrigation zones.'
